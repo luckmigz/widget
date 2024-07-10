@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const weatherWidget = ReactDOM.createRoot(document.getElementById('root'));
+const weatherWidget = ReactDOM.createRoot(document.getElementById('weather-widget'));
 weatherWidget.render(
 
     <App />
